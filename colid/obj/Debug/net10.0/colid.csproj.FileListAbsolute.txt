@@ -1,0 +1,14 @@
+C:\Users\ktooo\source\repos\colid\colid\bin\Debug\net10.0\colid.exe
+C:\Users\ktooo\source\repos\colid\colid\bin\Debug\net10.0\colid.deps.json
+C:\Users\ktooo\source\repos\colid\colid\bin\Debug\net10.0\colid.runtimeconfig.json
+C:\Users\ktooo\source\repos\colid\colid\bin\Debug\net10.0\colid.dll
+C:\Users\ktooo\source\repos\colid\colid\bin\Debug\net10.0\colid.pdb
+C:\Users\ktooo\source\repos\colid\colid\obj\Debug\net10.0\colid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ktooo\source\repos\colid\colid\obj\Debug\net10.0\colid.AssemblyInfoInputs.cache
+C:\Users\ktooo\source\repos\colid\colid\obj\Debug\net10.0\colid.AssemblyInfo.cs
+C:\Users\ktooo\source\repos\colid\colid\obj\Debug\net10.0\colid.csproj.CoreCompileInputs.cache
+C:\Users\ktooo\source\repos\colid\colid\obj\Debug\net10.0\colid.dll
+C:\Users\ktooo\source\repos\colid\colid\obj\Debug\net10.0\refint\colid.dll
+C:\Users\ktooo\source\repos\colid\colid\obj\Debug\net10.0\colid.pdb
+C:\Users\ktooo\source\repos\colid\colid\obj\Debug\net10.0\colid.genruntimeconfig.cache
+C:\Users\ktooo\source\repos\colid\colid\obj\Debug\net10.0\ref\colid.dll
